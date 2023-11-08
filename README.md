@@ -1,2 +1,6 @@
-# github-docs-example
-Siguiendo el vídeo de omeking
+# Github Docs Example
+## Paso 1 - Usar Codeblocks
+
+Escribiendo buena documentación
+
+ 
